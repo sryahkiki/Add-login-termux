@@ -3,9 +3,9 @@
 import os,sys,time,getpass
 
 # username
-x = "surya"
+x = "(your id)"
 # paasword
-y = "asd1234"
+y = "your password"
 
 # mengetik otomatis cepat
 def sp(a):
@@ -34,10 +34,10 @@ def login():
   sp("")
   sp("\033[1;92m=========================================\033[1;92m")
   sp("")
-  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mOwner     \033[1;91m: \033[1;95mMr14")
-  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mInstagram \033[1;91m: \033[1;95msryahkiki_")
-  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mAge       \033[1;91m: \033[1;95m20")
-  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mDevice    \033[1;91m: \033[1;95mRedmi 4x")
+  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mOwner     \033[1;91m: \033[1;95m(Your namne)")
+  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mInstagram \033[1;91m: \033[1;95m(your account)")
+  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mAge       \033[1;91m: \033[1;95m(your age)")
+  sp(" \033[1;97m{\033[1;95m+\033[1;97m} \033[1;93mDevice    \033[1;91m: \033[1;95m(your device)")
   sp("")
   sp("\033[1;92m=========================================\033[1;92m")
   sp(" \033[1;91mWelcome tuan,siap membantu kegiatan kapan pun tuan membutuhkannya")
